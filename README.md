@@ -1,2 +1,2 @@
-# Business-Intelligence - Data Visualization
+# Data Visualization - World Population Forecast
 Algonquin
