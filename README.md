@@ -1,2 +1,2 @@
-# Business-Intelligence
+# Business-Intelligence - Data Visualization
 Algonquin
